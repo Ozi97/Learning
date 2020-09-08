@@ -10,7 +10,7 @@
 	- [ ] []()
 	  - [ ] []()  
     
-- [ ] [Natural Language Processing]()
+- [ ] [Natural Language Processing](https://www.deeplearning.ai)
 	- [ ] []()
 	  - [ ] []()  
 
