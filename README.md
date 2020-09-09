@@ -1,4 +1,4 @@
-# Learning ![HitCount](http://hits.dwyl.com/Ozi97/Learning.svg)
+# Learning [![HitCount](http://hits.dwyl.com/osaidz/Learning.svg)](http://hits.dwyl.com/osaidz/Learning)
 
 ### Coursera 
 
